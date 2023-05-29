@@ -1,0 +1,42 @@
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:19.546779
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:20.217863
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:21.456424
+Request methodd: PUT
+Request URL: 
+
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:23.034421
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:24.213480
+Request methodd: DELETE
+Request URL: 
+
+
+-----
+Test: tests/test_google_maps_api.py::Test_create_place::test_create_new_place (call)
+Time: 2023-05-26 17:51:25.757746
+Request methodd: GET
+Request URL: 
+

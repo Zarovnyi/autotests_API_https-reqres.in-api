@@ -1,0 +1,6 @@
+Метод POST успешный вход в систему
+https://reqres.in/api/login
+{"token":"QpwL5tke4Pnpja7X4"}
+Успешно!!! Статус код = 200
+Все поля присутствуют
+token Верен!

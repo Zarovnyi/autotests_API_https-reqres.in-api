@@ -1,0 +1,217 @@
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_of_userse (call)
+Time: 2023-05-24 11:01:11.610456
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_single_user (call)
+Time: 2023-05-24 11:01:11.943262
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_user_not_found (call)
+Time: 2023-05-24 11:01:12.100173
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_list_resource (call)
+Time: 2023-05-24 11:01:12.244090
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_single_resource (call)
+Time: 2023-05-24 11:01:12.386007
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_resource_not_found (call)
+Time: 2023-05-24 11:01:12.526928
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_creat_new_place (call)
+Time: 2023-05-24 11:01:12.783351
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_put_update (call)
+Time: 2023-05-24 11:01:13.103651
+Request methodd: PUT
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_patch_update (call)
+Time: 2023-05-24 11:01:13.376516
+Request methodd: PATH
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_delete (call)
+Time: 2023-05-24 11:01:13.630464
+Request methodd: DELETE
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_register_successful (call)
+Time: 2023-05-24 11:01:13.907266
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_register_unsuccessful (call)
+Time: 2023-05-24 11:01:14.160216
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_login_successful (call)
+Time: 2023-05-24 11:01:14.441681
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_login_unsuccessful (call)
+Time: 2023-05-24 11:01:14.722094
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api.py::Test_positive_verification::test_get_delayed_response (call)
+Time: 2023-05-24 11:01:14.994341
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_of_userse (call)
+Time: 2023-05-24 11:01:18.273823
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_single_user (call)
+Time: 2023-05-24 11:01:18.544848
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_user_not_found (call)
+Time: 2023-05-24 11:01:18.680313
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_list_resource (call)
+Time: 2023-05-24 11:01:19.137841
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_single_resource (call)
+Time: 2023-05-24 11:01:19.410280
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_resource_not_found (call)
+Time: 2023-05-24 11:01:19.568055
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_creat_new_place (call)
+Time: 2023-05-24 11:01:19.728590
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_put_update (call)
+Time: 2023-05-24 11:01:19.982262
+Request methodd: PUT
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_patch_update (call)
+Time: 2023-05-24 11:01:20.262396
+Request methodd: PATH
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_delete (call)
+Time: 2023-05-24 11:01:20.564546
+Request methodd: DELETE
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_register_successful (call)
+Time: 2023-05-24 11:01:20.838462
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_register_unsuccessful (call)
+Time: 2023-05-24 11:01:21.108189
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_login_successful (call)
+Time: 2023-05-24 11:01:21.368552
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_login_unsuccessful (call)
+Time: 2023-05-24 11:01:21.934973
+Request methodd: POST
+Request URL: 
+
+
+-----
+Test: tests/test_reqres_api_negative.py::Test_negative_verification::test_get_delayed_response (call)
+Time: 2023-05-24 11:01:22.214402
+Request methodd: GET
+Request URL: 
+
+
+-----
+Test: tests/test_ui.py::test_ui (call)
+Time: 2023-05-24 11:01:30.955104
+Request methodd: GET
+Request URL: 
+

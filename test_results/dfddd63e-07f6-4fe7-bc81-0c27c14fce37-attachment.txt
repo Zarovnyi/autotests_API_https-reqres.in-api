@@ -1,0 +1,6 @@
+Метод POST успешная регистрация
+https://reqres.in/api/register
+{"id":4,"token":"QpwL5tke4Pnpja7X4"}
+Успешно!!! Статус код = 200
+Все поля присутствуют
+id Верен!

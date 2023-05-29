@@ -1,0 +1,6 @@
+Метод POST  неудачный вход в систему
+https://reqres.in/api/login
+{"error":"Missing password"}
+Успешно!!! Статус код = 400
+Все поля присутствуют
+error Верен!

@@ -1,0 +1,6 @@
+Метод PATCH для обновления
+https://reqres.in/api/users/1
+{"name":"morpheus","job":"zion resident","updatedAt":"2023-05-29T20:16:35.185Z"}
+Успешно!!! Статус код = 200
+Все поля присутствуют
+name Верен!

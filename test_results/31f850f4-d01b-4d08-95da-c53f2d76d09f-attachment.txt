@@ -1,0 +1,6 @@
+Метод PUT для обновления
+https://reqres.in/api/users/2
+{"name":"morpheus","job":"leader","updatedAt":"2023-05-29T20:16:34.771Z"}
+Успешно!!! Статус код = 200
+Все поля присутствуют
+name Верен!

@@ -1,0 +1,4 @@
+Метод DELETE
+https://reqres.in/api/users/10
+
+Успешно!!! Статус код = 204

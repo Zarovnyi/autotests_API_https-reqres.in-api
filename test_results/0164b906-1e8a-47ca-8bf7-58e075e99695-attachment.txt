@@ -1,0 +1,4 @@
+Метод PUT для обновления
+https://reqres.in/api/users/2
+{"job":"leader","updatedAt":"2023-05-29T20:16:43.451Z"}
+Успешно!!! Статус код = 200

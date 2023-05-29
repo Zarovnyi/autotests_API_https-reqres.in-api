@@ -1,0 +1,3 @@
+Метод POST неудачная регистрация
+https://reqres.in/api/regi
+{"password":"cityslicka","id":"292","createdAt":"2023-05-29T20:16:45.055Z"}
